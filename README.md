@@ -1,4 +1,4 @@
-Creating Printf Function 
+creating Printf Function 
 #### Collaborators
 *Udeze Chukwudalu --Dilliondeba
- CHiamaka Okafor --
+Okafor Chiamaka --DrPesh
